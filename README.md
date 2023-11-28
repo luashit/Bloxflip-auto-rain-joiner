@@ -6,6 +6,12 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## Update v1.2:
+- Bug fixes
++ faster join
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Information:
 - When there is a rain at [bloxflip](https://bloxflip.com) this program will join the rain and let you know some information about it
 - If you want to use it check license so you know your limits
